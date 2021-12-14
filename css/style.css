@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scalescale=1">
 <style>
 .button {
-  background-color: #04AA6D; /* Green */
+  background-color: red; /* Green */
   border: none;
   color: white;
   padding: 20px;
@@ -21,3 +21,15 @@
 .button3 {border-radius: 8px;}
 .button4 {border-radius: 12px;}
 .button5 {border-radius: 50%;}
+
+.center
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  
+<marquee behavior="scroll" direction="left">Here is some scrolling text... right to left!</marquee>
+
+</style>
+</head>
+</html>
