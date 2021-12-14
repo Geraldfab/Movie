@@ -1,12 +1,23 @@
 /* Add all your styles here */
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scalescale=1">
+<style>
+.button {
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
 
-img.img-chucky
-  {
-    width: 100px;
-  }
-  
-.image-chucky
-   {
-     width:100;
-     height:100;
-   }
+.button1 {border-radius: 2px;}
+.button2 {border-radius: 4px;}
+.button3 {border-radius: 8px;}
+.button4 {border-radius: 12px;}
+.button5 {border-radius: 50%;}
